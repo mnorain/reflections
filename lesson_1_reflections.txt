@@ -1,0 +1,9 @@
+How did viewing a diff between two version of a file help you see the bug that was introduced?
+I dont kow nothing
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+what is this questions for 
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
